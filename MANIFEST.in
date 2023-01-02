@@ -1,7 +1,3 @@
-recursive-include docs *
-recursive-include tests *.py
-include *.py
-include CHANGELOG
-include LICENSE
-include MANIFEST.in
-include README.rst
+version https://git-lfs.github.com/spec/v1
+oid sha256:279609ba32836bdde10fd78d1e1b4b0bfe571d4fa088f4a8f307adcec863ebbf
+size 140
